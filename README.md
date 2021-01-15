@@ -1,2 +1,2 @@
 # My-Personal-Site
-That's a site made for myself.
+This a site made for myself.
