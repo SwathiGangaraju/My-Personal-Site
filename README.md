@@ -1,2 +1,2 @@
 # My-Personal-Site
-This a site made for myself.
+This is my basic web portfolio.
